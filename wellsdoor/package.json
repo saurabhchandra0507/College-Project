@@ -1,0 +1,16 @@
+{
+    "name": "saurabh",
+    "autoload": {
+        "psr-4": {
+            "Priyansh\\Itcompany\\": "wellsdoor"
+        }
+    },
+    "authors": [
+        {
+            "name": "It Company"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
